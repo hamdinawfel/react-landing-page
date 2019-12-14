@@ -1,6 +1,6 @@
 ANIS CONSRUCTION
  
- List of technologies used in web development:
+ List of technologies used in this project:
     
                 | * HTML
     Language    | * CSS
