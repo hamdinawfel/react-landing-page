@@ -1,6 +1,6 @@
 ANIS CONSRUCTION
 
-DEMO: https://quizzical-allen-8a2dcc.netlify.app
+DEMO: https://anisconstruction.netlify.app
 
  List of technologies used in this project:
     
