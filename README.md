@@ -6,7 +6,7 @@ DEMO: https://anisconstruction.netlify.app
     
                 | * HTML
     Language    | * CSS
-                | * java Script
+                | * javaScript
                         
 
                 | * react.js
